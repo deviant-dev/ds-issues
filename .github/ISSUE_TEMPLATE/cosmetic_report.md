@@ -1,15 +1,18 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: Cosmetic Issue
+about: Help us improve the look of the game
 title: ''
-labels: Gameplay Bug
+labels: Cosmetic Issue
 assignees: deviant-dev
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Describe the issue**
+A clear and concise description of what the cosmetic issue is.
 Reference other reports by using **#**, a dropdown menu will appear.
+
+**Screenshots**
+Please add screenshots to help explain this issue.
 
 **To Reproduce**
 Steps to reproduce the behavior:
@@ -18,11 +21,8 @@ Steps to reproduce the behavior:
 3. Try to '....'
 4. See error
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
-
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Expectations**
+Describe what you expected to see.
 
 **System Info(please complete the following information):**
  - VR Device: [e.g. Oculus Rift, Vive Index, keyboard & mouse]
