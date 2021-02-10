@@ -2,19 +2,16 @@
 name: Feature request
 about: Suggest an idea for this project
 title: ''
-labels: enhancement
+labels: Enhancement
 assignees: deviant-dev
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Describe what you'd like**
+Tell us your deepest, darkest desires.
+Be clear, and concise.
+Ex. I really would enjoy [...].
+Reference other reports by using **#**, a dropdown menu will appear.
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
-
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Additional details**
+Ooh, also [...] would be fun because [...].
